@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "329992743944",
+    "project_id": "multiproviderphoneemaildemo",
+    "storage_bucket": "multiproviderphoneemaildemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329992743944:android:9db22566d8350fc671b5bd",
+        "android_client_info": {
+          "package_name": "com.example.multi_provider_phone_and_email_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329992743944-m3ntv1nbm2aqfh66lgab7tronkdag345.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVdNun2UX8iLxcisbwW5x62huFl7EuPYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329992743944-m3ntv1nbm2aqfh66lgab7tronkdag345.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
